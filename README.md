@@ -17,12 +17,16 @@ Here is the road map that we have.
         https://developer.gm.com/
 
     Emulators can be split between Ali & Alessio
-        **Alessio**
-            - [ ] Name: MY23 GMC Yukon
-            - [ ] Name: MY23 GMC Hummer EV SUV
-        **Ali**
-            - [X] Name: MY24 CADILLAC Lyriq Freeform SUV
-            - [ ] Name: MY24 GM SUV
+    
+    **Alessio**
+    
+        - [ ] Name: MY23 GMC Yukon    
+        - [ ] Name: MY23 GMC Hummer EV SUV
+        
+    **Ali**
+    
+        - [X] Name: MY24 CADILLAC Lyriq Freeform SUV    
+        - [ ] Name: MY24 GM SUV
 
 #### Step 2
 - [ ] Understand what makes them different
