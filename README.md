@@ -19,18 +19,10 @@ Here is the road map that we have.
     Emulators can be split between Ali & Alessio
         **Alessio**
             - [ ] Name: MY23 GMC Yukon
-            URL: XML resource link 
-                https://developer.gm.com/downloads/final_37_03042022_emulator.xml
             - [ ] Name: MY23 GMC Hummer EV SUV
-            URL: XML resource link 
-                https://developer.gm.com/downloads/final_38_03042022_emulator.xml
         **Ali**
             - [X] Name: MY24 CADILLAC Lyriq Freeform SUV
-            URL: XML resource link 
-                https://developer.gm.com/downloads/final_ff_05302022_emulator.xml
             - [ ] Name: MY24 GM SUV
-            URL: XML resource link 
-                https://developer.gm.com/downloads/final_31XX_06272022_emulator.xml
 
 #### Step 2
 - [ ] Understand what makes them different
