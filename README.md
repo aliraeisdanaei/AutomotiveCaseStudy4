@@ -1,6 +1,7 @@
 # Automotive Case Study
 
 This folder can be used for the automive case study. 
+We could use it to track our progress, as well as upload the code for our apps.
 
 Here is the road map that we have.
 
@@ -9,7 +10,7 @@ Here is the road map that we have.
 
 
 ## TODO
-1. 
+#### Step 1
 - [ ] Configure different cars--start with a produce line.
     
     We have four emulators from GM Developers
@@ -31,17 +32,17 @@ Here is the road map that we have.
             URL: XML resource link 
                 https://developer.gm.com/downloads/final_31XX_06272022_emulator.xml
 
-2.  
+#### Step 2
 - [ ] Understand what makes them different
     We want the apps to find these and exploit them.
 
-3.
+#### Step 3
 - [ ] Create one app on these products (that could have) different behaviour on these products.
 
-4. 
+#### Step 4
 - [ ] Access a feature (e.g. sensor) that only one product has.
 
-5. 
+#### Step 5
 - [ ] Find a second app that interacts with the first app under some condition. 
 
 ### Questions to be answered
