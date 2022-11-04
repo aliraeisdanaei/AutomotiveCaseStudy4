@@ -28,7 +28,7 @@ Here is the road map that we have.
     We want the apps to find these and research them.
     
     - [ ] Read android automotive [documentation](https://developer.android.com/training/cars) **Nov 6**
-    - [ ] Identify what sensors or actuators we can have access through Android Automotive OS **Nov 7**
+    - [ ] Identify what sensors or actuators we can have access through Android Automotive OS [doc](https://developer.android.com/jetpack/androidx/releases/car-app) **Nov 7**
     - [ ] Identify product specific sensors (sensors that are only available for one vehicle and not for others) **Nov 8**
        
 
