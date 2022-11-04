@@ -29,6 +29,7 @@ Here is the road map that we have.
     
     - [ ] Read android automotive [documentation](https://developer.android.com/training/cars) **Nov 6**
     - [ ] Identify what sensors or actuators we can have access through Android Automotive OS [doc](https://developer.android.com/jetpack/androidx/releases/car-app) **Nov 7**
+    - [ ] Read through [Audio Attributes](https://developer.android.com/reference/androidx/media/AudioAttributesCompat#getFlags()) **Nov 7**    
     - [ ] Identify product specific sensors (sensors that are only available for one vehicle and not for others) **Nov 8**
        
 
