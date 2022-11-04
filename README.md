@@ -7,43 +7,52 @@ Here is the road map that we have.
 
 ## Deadline
 **28. Nov - 13. Dec** is the window of completion. We will be presenting this to GM.
+**While no exact deadline is given Nov 28** should be assumed**
 
 
 ## TODO
-#### Step 1
+#### Step 1 **Nov 9th**
 - [ ] Configure different cars--start with a produce line.
     
-    We have four emulators from GM Developers
-        https://developer.gm.com/
+    - [X] Install Android Studio **Nov 4**
+    
+    Set up all four emulators from [GM Developers](https://developer.gm.com) **Nov 9**
+    
+    - [ ] MY23 GMC Yukon    
+    - [ ] MY23 GMC Hummer EV SUV    
+    - [ ] MY24 CADILLAC Lyriq Freeform SUV    
+    - [ ] MY24 GM SUV
 
-    Emulators can be split between Ali & Alessio
-    
-    **Alessio**
-    
-        - [ ] Name: MY23 GMC Yukon    
-        - [ ] Name: MY23 GMC Hummer EV SUV
-        
-    **Ali**
-    
-        - [X] Name: MY24 CADILLAC Lyriq Freeform SUV    
-        - [ ] Name: MY24 GM SUV
-
-#### Step 2
+#### Step 2 **Nov 8**
 - [ ] Understand what makes them different
-    We want the apps to find these and exploit them.
+    We want the apps to find these and research them.
+    
+    - [ ] Read android automotive [documentation](https://developer.android.com/training/cars) **Nov 6**
+    - [ ] Identify what sensors or actuators we can have access through Android Automotive OS **Nov 7**
+    - [ ] Identify product specific sensors (sensors that are only available for one vehicle and not for others) **Nov 8**
+       
 
-#### Step 3
+#### Step 3 **Nov 10**
 - [ ] Create one app on these products (that could have) different behaviour on these products.
 
-#### Step 4
-- [ ] Access a feature (e.g. sensor) that only one product has.
+    - [ ] Start with a messaging app template **Nov 9**
+    - [ ] Start with a media service app template **Nov 9**
+    - [ ] Learn how to display a text or an image on the screen **Nov 9**
+    - [ ] Play a music file through the media service **Nov 9**
 
-#### Step 5
+#### Step 4 **Nov 17**
+- [ ] Access a feature (e.g. sensor) that only one product has.
+    - [ ] Detirmine product specific sensors identified previously to be used in the media service app **Nov 14**
+
+#### Step 5 **Nov 24**
 - [ ] Find a second app that interacts with the first app under some condition. 
 
 ### Questions to be answered
 
-- [ ] Can these emulators be used with a car simulator such as CARLA?
+- [ ] Can these emulators be used with a car simulator such as CARLA? **Nov 11**
+    - [X] Set up a meeting with Huaken **Nov 7**
+    - [ ] Receive back answer from Huaken **Nov 10**
+    - [ ] If CARLA or another simulator can be used, ask team if this is useful for our project **Nov 11**
 
 - [ ] A car doesn't have a sensor. An app uses that sensor. What happens? 
     Can the app still be installed?
