@@ -7,7 +7,7 @@ Here is the road map that we have.
 
 ## Deadline
 **28. Nov - 13. Dec** is the window of completion. We will be presenting this to GM.
-**While no exact deadline is given Nov 28** should be assumed**
+**While no exact deadline is given Nov 28 should be assumed**
 
 
 ## TODO
