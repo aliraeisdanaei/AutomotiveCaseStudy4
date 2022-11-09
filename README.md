@@ -12,18 +12,18 @@ Here is the road map that we have.
 
 ## TODO
 #### Step 1 **Nov 9th**
-- [ ] Configure different cars--start with a produce line.
+- [X] Configure different cars--start with a produce line.
     
     - [X] Install Android Studio **Nov 4**
     
     Set up all four emulators from [GM Developers](https://developer.gm.com) **Nov 9**
     
-    - [ ] MY23 GMC Yukon    
-    - [ ] MY23 GMC Hummer EV SUV    
-    - [ ] MY24 CADILLAC Lyriq Freeform SUV    
-    - [ ] MY24 GM SUV
+    - [X] MY23 GMC Yukon    
+    - [X] MY23 GMC Hummer EV SUV    
+    - [X] MY24 CADILLAC Lyriq Freeform SUV    
+    - [X] MY24 GM SUV
 
-#### Step 2 **Nov 8**
+#### Step 2 **Nov 10**
 - [ ] Understand what makes them different
     We want the apps to find these and research them.
     
@@ -36,10 +36,10 @@ Here is the road map that we have.
 #### Step 3 **Nov 10**
 - [ ] Create one app on these products (that could have) different behaviour on these products.
 
-    - [ ] Start with a messaging app template **Nov 9**
-    - [ ] Start with a media service app template **Nov 9**
-    - [ ] Learn how to display a text or an image on the screen **Nov 9**
-    - [ ] Play a music file through the media service **Nov 9**
+    - [ ] Start with a messaging app template **Nov 10**
+    - [ ] Start with a media service app template **Nov 10**
+    - [ ] Learn how to display a text or an image on the screen **Nov 10**
+    - [ ] Play a music file through the media service **Nov 10**
 
 #### Step 4 **Nov 17**
 - [ ] Access a feature (e.g. sensor) that only one product has.
