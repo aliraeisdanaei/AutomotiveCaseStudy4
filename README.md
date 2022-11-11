@@ -6,8 +6,7 @@ We could use it to track our progress, as well as upload the code for our apps.
 Here is the road map that we have.
 
 ## Deadline
-**28. Nov - 13. Dec** is the window of completion. We will be presenting this to GM.
-**While no exact deadline is given Nov 28 should be assumed**
+**Dec 12** Workshop
 
 
 ## TODO
