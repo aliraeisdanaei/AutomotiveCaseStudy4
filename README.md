@@ -27,7 +27,7 @@ Here is the road map that we have.
 - [ ] Understand what makes them different
     We want the apps to find these and research them.
     
-    - [ ] Read android automotive [documentation](https://developer.android.com/training/cars) **Nov 6**
+    - [X] Read android automotive [documentation](https://developer.android.com/training/cars) **Nov 6**
     - [ ] Identify what sensors or actuators we can have access through Android Automotive OS [doc](https://developer.android.com/jetpack/androidx/releases/car-app) **Nov 7**
     - [ ] Read through [Audio Attributes](https://developer.android.com/reference/androidx/media/AudioAttributesCompat#getFlags()) **Nov 7**    
     - [ ] Identify product specific sensors (sensors that are only available for one vehicle and not for others) **Nov 8**
@@ -38,7 +38,7 @@ Here is the road map that we have.
 
     - [ ] Start with a messaging app template **Nov 10**
     - [ ] Start with a media service app template **Nov 10**
-    - [ ] Learn how to display a text or an image on the screen **Nov 10**
+    - [X] Learn how to display a text or an image on the screen **Nov 10**
     - [ ] Play a music file through the media service **Nov 10**
 
 #### Step 4 **Nov 17**
@@ -50,15 +50,18 @@ Here is the road map that we have.
 
 ### Questions to be answered
 
-- [ ] Can these emulators be used with a car simulator such as CARLA? **Nov 11**
+- [X] Can these emulators be used with a car simulator such as CARLA? **Nov 11**
     - [X] Set up a meeting with Huaken **Nov 7**
-    - [ ] Receive back answer from Huaken **Nov 10**
-    - [ ] If CARLA or another simulator can be used, ask team if this is useful for our project **Nov 11**
+    - [X] Receive back answer from Huaken **Nov 10**
+    - [X] If CARLA or another simulator can be used, ask team if this is useful for our project **Nov 11**
 
 - [ ] A car doesn't have a sensor. An app uses that sensor. What happens? 
     Can the app still be installed?
     Does the app crash?
     Does the system crash?
+
+- [ ] Kirill adds his examplar **Nov 12**
+    - [ ] Document the transitive error, and how it crashes **Nov 12**
 
 
 ### Ultimate Goal
