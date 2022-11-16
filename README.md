@@ -33,12 +33,12 @@ Here is the road map that we have.
        
 
 #### Step 3 **Nov 10**
-- [ ] Create one app on these products (that could have) different behaviour on these products.
+- [X] Create one app on these products (that could have) different behaviour on these products.
 
     - [ ] Start with a messaging app template **Nov 10**
-    - [ ] Start with a media service app template **Nov 10**
+    - [X] Start with a media service app template **Nov 10**
     - [X] Learn how to display a text or an image on the screen **Nov 10**
-    - [ ] Play a music file through the media service **Nov 10**
+    - [X] Play a music file through the media service **Nov 10**
 
 #### Step 4 **Nov 17**
 - [ ] Access a feature (e.g. sensor) that only one product has.
@@ -59,8 +59,8 @@ Here is the road map that we have.
     Does the app crash?
     Does the system crash?
 
-- [ ] Kirill adds his examplar **Nov 12**
-    - [ ] Document the transitive error, and how it crashes **Nov 12**
+- [X] Kirill adds his examplar **Nov 12**
+    - [ ] Document the transitive error, and how it crashes **Nov 24**
 
 
 ### Ultimate Goal
